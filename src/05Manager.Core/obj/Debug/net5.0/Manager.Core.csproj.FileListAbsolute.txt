@@ -1,0 +1,12 @@
+C:\Projeto.API\Manager\src\05Manager.Core\bin\Debug\net5.0\Manager.Core.deps.json
+C:\Projeto.API\Manager\src\05Manager.Core\bin\Debug\net5.0\Manager.Core.dll
+C:\Projeto.API\Manager\src\05Manager.Core\bin\Debug\net5.0\ref\Manager.Core.dll
+C:\Projeto.API\Manager\src\05Manager.Core\bin\Debug\net5.0\Manager.Core.pdb
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.csproj.AssemblyReference.cache
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.AssemblyInfoInputs.cache
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.AssemblyInfo.cs
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.csproj.CoreCompileInputs.cache
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.dll
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\ref\Manager.Core.dll
+C:\Projeto.API\Manager\src\05Manager.Core\obj\Debug\net5.0\Manager.Core.pdb

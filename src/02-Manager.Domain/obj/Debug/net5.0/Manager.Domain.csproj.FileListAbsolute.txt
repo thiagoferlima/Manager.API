@@ -1,0 +1,15 @@
+C:\Projeto.API\Manager\src\02-Manager.Domain\bin\Debug\net5.0\Manager.Domain.deps.json
+C:\Projeto.API\Manager\src\02-Manager.Domain\bin\Debug\net5.0\Manager.Domain.dll
+C:\Projeto.API\Manager\src\02-Manager.Domain\bin\Debug\net5.0\ref\Manager.Domain.dll
+C:\Projeto.API\Manager\src\02-Manager.Domain\bin\Debug\net5.0\Manager.Domain.pdb
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.AssemblyReference.cache
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
+C:\Projeto.API\Manager\src\02-Manager.Domain\bin\Debug\net5.0\Manager.Core.dll
+C:\Projeto.API\Manager\src\02-Manager.Domain\bin\Debug\net5.0\Manager.Core.pdb
+C:\Projeto.API\Manager\src\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CopyComplete

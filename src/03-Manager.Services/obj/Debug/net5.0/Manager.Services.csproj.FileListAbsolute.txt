@@ -1,0 +1,12 @@
+C:\Projeto.API\Manager\src\03-Manager.Services\bin\Debug\net5.0\Manager.Services.deps.json
+C:\Projeto.API\Manager\src\03-Manager.Services\bin\Debug\net5.0\Manager.Services.dll
+C:\Projeto.API\Manager\src\03-Manager.Services\bin\Debug\net5.0\ref\Manager.Services.dll
+C:\Projeto.API\Manager\src\03-Manager.Services\bin\Debug\net5.0\Manager.Services.pdb
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.AssemblyReference.cache
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfoInputs.cache
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfo.cs
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CoreCompileInputs.cache
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.dll
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\ref\Manager.Services.dll
+C:\Projeto.API\Manager\src\03-Manager.Services\obj\Debug\net5.0\Manager.Services.pdb
