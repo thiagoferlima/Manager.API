@@ -58,7 +58,7 @@ namespace Manager.Infra.Repositories
             return obj.FirstOrDefault();
         }
 
-        public virtual async Task<List<T>> Get()
+        public virtual async Task<List<T>> GetAll()
         {
             return await _context.Set<T>()
                                  .AsNoTracking()

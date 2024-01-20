@@ -13,7 +13,7 @@ namespace Manager.Infra.Interfaces
         Task<T> Update(T obj);
         Task<T> Remove(long id);
         Task<T> GetById(long id);
-        Task<List<T>> Get();
+        Task<List<T>> GetAll();
 
     }
 }

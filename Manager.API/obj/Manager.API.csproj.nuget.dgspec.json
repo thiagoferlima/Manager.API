@@ -329,7 +329,17 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Manager\\Manager\\Manager.Core\\Manager.Core.csproj": {
+                "projectPath": "C:\\Manager\\Manager\\Manager.Core\\Manager.Core.csproj"
+              },
+              "C:\\Manager\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
+                "projectPath": "C:\\Manager\\Manager\\Manager.Domain\\Manager.Domain.csproj"
+              },
+              "C:\\Manager\\Manager\\Manager.Infra\\Manager.Infra.csproj": {
+                "projectPath": "C:\\Manager\\Manager\\Manager.Infra\\Manager.Infra.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -341,6 +351,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

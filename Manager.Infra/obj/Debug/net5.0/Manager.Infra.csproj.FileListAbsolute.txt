@@ -16,3 +16,5 @@ C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\refint\Manager.Infra.dll
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.pdb
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.genruntimeconfig.cache
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\ref\Manager.Infra.dll
+C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Core.dll
+C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Core.pdb
