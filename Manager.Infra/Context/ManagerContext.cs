@@ -15,12 +15,6 @@ namespace Manager.Infra.Context
 
         public ManagerContext(DbContextOptions<ManagerContext> options) : base(options) 
         { }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-RTK0SIV\SQLEXPRESS2022;Initial Catalog=USERMANAGER;Integrated Security=True;");
-        }
-
         public virtual DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder Builder)

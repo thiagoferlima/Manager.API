@@ -3,8 +3,10 @@ C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Infra.runtimeconfig.js
 C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Infra.runtimeconfig.dev.json
 C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Infra.dll
 C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Infra.pdb
+C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Core.dll
 C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Domain.dll
 C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Domain.pdb
+C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Core.pdb
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.csproj.AssemblyReference.cache
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.GeneratedMSBuildEditorConfig.editorconfig
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.AssemblyInfoInputs.cache
@@ -16,5 +18,3 @@ C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\refint\Manager.Infra.dll
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.pdb
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\Manager.Infra.genruntimeconfig.cache
 C:\Manager\Manager\Manager.Infra\obj\Debug\net5.0\ref\Manager.Infra.dll
-C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Core.dll
-C:\Manager\Manager\Manager.Infra\bin\Debug\net5.0\Manager.Core.pdb

@@ -66,13 +66,13 @@ namespace Manager.Services.Services
             return _mapper.Map<List<UserDTO>>(allUsers);
         }
 
-        public async Task<List<UserDTO>> SearchyByName(string name)
+        public async Task<List<UserDTO>> SearchByName(string name)
         {
             var allUsers = await _userRepository.SearchByName(name);
             return _mapper.Map<List<UserDTO>>(allUsers);
         }
 
-        public async Task<List<UserDTO>> SearchyByEmail(string email)
+        public async Task<List<UserDTO>> SearchByEmail(string email)
         {
             var allUsers = await _userRepository.SearchByEmail(email);
             return _mapper.Map<List<UserDTO>>(allUsers);

@@ -1,7 +1,17 @@
+using AutoMapper;
+using Manager.API.ViewModels;
+using Manager.Domain.Entities;
+using Manager.Infra.Context;
+using Manager.Infra.Interfaces;
+using Manager.Infra.Repositories;
+using Manager.Services.DTO;
+using Manager.Services.Interfaces;
+using Manager.Services.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -28,6 +38,24 @@ namespace Manager.API
         {
 
             services.AddControllers();
+
+            #region AutoMapper
+            var autoMapperConfig = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<User, UserDTO>().ReverseMap();
+                cfg.CreateMap<CreateUserViewModel, UserDTO>().ReverseMap();
+                cfg.CreateMap<UpdateUserViewModel, UserDTO>().ReverseMap();
+            });
+            services.AddSingleton(autoMapperConfig.CreateMapper());
+            #endregion
+
+            services.AddSingleton(d => Configuration);
+            services.AddDbContext<ManagerContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:USERMANAGER"]), ServiceLifetime.Transient);
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IUserRepository, UserRepository>();
+
+
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Manager.API", Version = "v1" });
@@ -49,6 +77,7 @@ namespace Manager.API
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

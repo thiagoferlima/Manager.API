@@ -14,8 +14,8 @@ namespace Manager.Services.Interfaces
         Task Remove(long id);
         Task<UserDTO> GetById(long id);
         Task<List<UserDTO>> GetAll();
-        Task<List<UserDTO>> SearchyByName(string name);
-        Task<List<UserDTO>> SearchyByEmail(string email);
+        Task<List<UserDTO>> SearchByName(string name);
+        Task<List<UserDTO>> SearchByEmail(string email);
         Task<UserDTO> GetByEmail(string email);
 
 

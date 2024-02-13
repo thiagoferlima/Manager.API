@@ -1,7 +1,3 @@
-C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfoInputs.cache
-C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfo.cs
-C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CoreCompileInputs.cache
 C:\Manager\Manager\Manager.Services\bin\Debug\net5.0\Manager.Services.deps.json
 C:\Manager\Manager\Manager.Services\bin\Debug\net5.0\Manager.Services.dll
 C:\Manager\Manager\Manager.Services\bin\Debug\net5.0\Manager.Services.pdb
@@ -12,6 +8,10 @@ C:\Manager\Manager\Manager.Services\bin\Debug\net5.0\Manager.Core.pdb
 C:\Manager\Manager\Manager.Services\bin\Debug\net5.0\Manager.Domain.pdb
 C:\Manager\Manager\Manager.Services\bin\Debug\net5.0\Manager.Infra.pdb
 C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.AssemblyReference.cache
+C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfoInputs.cache
+C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfo.cs
+C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CoreCompileInputs.cache
 C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CopyComplete
 C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\Manager.Services.dll
 C:\Manager\Manager\Manager.Services\obj\Debug\net5.0\refint\Manager.Services.dll
