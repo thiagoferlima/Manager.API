@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text.Json.Serialization;
 
 namespace Manager.Services.DTO
 {
@@ -14,6 +10,7 @@ namespace Manager.Services.DTO
 
         public string Email { get; set; }
 
+        [JsonIgnore]
         public string Password { get; set; }
 
         public UserDTO()

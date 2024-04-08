@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Manager\\Manager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|c:\\manager\\manager\\03-manager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|solutionrelative:03-manager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57598A-B1C9-48A4-AF7E-795652770D11}|02-Manager.Domain\\Manager.Domain.csproj|c:\\manager\\manager\\02-manager.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57598A-B1C9-48A4-AF7E-795652770D11}|02-Manager.Domain\\Manager.Domain.csproj|solutionrelative:02-manager.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|c:\\manager\\manager\\03-manager.services\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|solutionrelative:03-manager.services\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,6 +30,10 @@
       "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,24 +42,12 @@
       "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\manager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|c:\\manager\\manager\\03-manager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|solutionrelative:03-manager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\context\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\context\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E57FABC-4C66-4C51-8F12-033F228B9C26}|05-Manager.Core\\Manager.Core.csproj|c:\\manager\\manager\\05-manager.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,7 +88,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -112,19 +120,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\appsettings.json",
-              "RelativeDocumentMoniker": "01-Manager.API\\appsettings.json",
-              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\appsettings.json",
-              "RelativeToolTip": "01-Manager.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-07T15:21:49.589Z"
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\02-Manager.Domain\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "02-Manager.Domain\\Entites\\User.cs",
+              "ToolTip": "C:\\Manager\\Manager\\02-Manager.Domain\\Entites\\User.cs",
+              "RelativeToolTip": "02-Manager.Domain\\Entites\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:11:17.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\03-Manager.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "03-Manager.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Manager\\Manager\\03-Manager.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "03-Manager.Services\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:52:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "01-Manager.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAnwKwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:52:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "ToolTip": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "RelativeToolTip": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T14:40:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Program.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Program.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Program.cs",
+              "RelativeToolTip": "01-Manager.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:51:28.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\03-Manager.Services\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "03-Manager.Services\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Manager\\Manager\\03-Manager.Services\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "03-Manager.Services\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:55:55.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Manager.Core.csproj",
               "DocumentMoniker": "C:\\Manager\\Manager\\05-Manager.Core\\Manager.Core.csproj",
               "RelativeDocumentMoniker": "05-Manager.Core\\Manager.Core.csproj",
@@ -136,57 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Manager\\Manager\\03-Manager.Services\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "03-Manager.Services\\Services\\UserService.cs",
-              "ToolTip": "C:\\Manager\\Manager\\03-Manager.Services\\Services\\UserService.cs",
-              "RelativeToolTip": "03-Manager.Services\\Services\\UserService.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAowEIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:52:18.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "01-Manager.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "01-Manager.API\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowFIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:52:37.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
-              "ToolTip": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
-              "RelativeToolTip": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T14:40:50.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Program.cs",
-              "RelativeDocumentMoniker": "01-Manager.API\\Program.cs",
-              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Program.cs",
-              "RelativeToolTip": "01-Manager.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:51:28.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Manager.API.csproj",
               "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Manager.API.csproj",
               "RelativeDocumentMoniker": "01-Manager.API\\Manager.API.csproj",
@@ -198,7 +222,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Startup.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Startup.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Startup.cs",
+              "RelativeToolTip": "01-Manager.API\\Startup.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwHgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:04:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "01-Manager.API\\appsettings.json",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\appsettings.json",
+              "RelativeToolTip": "01-Manager.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T15:21:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "01-Manager.API\\Controllers\\AuthController.cs",
@@ -210,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "04-Manager.Infra\\Repositories\\BaseRepository.cs",
@@ -222,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ManagerContext.cs",
               "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Context\\ManagerContext.cs",
               "RelativeDocumentMoniker": "04-Manager.Infra\\Context\\ManagerContext.cs",
@@ -234,19 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Startup.cs",
-              "RelativeDocumentMoniker": "01-Manager.API\\Startup.cs",
-              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Startup.cs",
-              "RelativeToolTip": "01-Manager.API\\Startup.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:04:37.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Manager\\Manager\\05-Manager.Core\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "05-Manager.Core\\Exceptions\\DomainException.cs",
@@ -258,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Manager.Infra.csproj",
               "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Manager.Infra.csproj",
               "RelativeDocumentMoniker": "04-Manager.Infra\\Manager.Infra.csproj",
@@ -270,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Manager.Services.csproj",
               "DocumentMoniker": "C:\\Manager\\Manager\\03-Manager.Services\\Manager.Services.csproj",
               "RelativeDocumentMoniker": "03-Manager.Services\\Manager.Services.csproj",
@@ -282,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json",
@@ -294,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "04-Manager.Infra\\Interfaces\\IBaseRepository.cs",
@@ -306,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "04-Manager.Infra\\Repositories\\UserRepository.cs",
@@ -318,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Manager.Domain.csproj",
               "DocumentMoniker": "C:\\Manager\\Manager\\02-Manager.Domain\\Manager.Domain.csproj",
               "RelativeDocumentMoniker": "02-Manager.Domain\\Manager.Domain.csproj",

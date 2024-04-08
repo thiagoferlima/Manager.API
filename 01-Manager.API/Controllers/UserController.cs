@@ -44,12 +44,7 @@ namespace Manager.API.Controllers
                 {
                     Message = "Usuário criado com sucesso!",
                     Success = true,
-                    Data = new 
-                    {
-                        Id = userCreated.Id,
-                        Name = userCreated.Name,
-                        Email = userCreated.Email,
-                    }
+                    Data = userCreated 
                 });
             }
             catch (DomainException ex)
@@ -74,12 +69,7 @@ namespace Manager.API.Controllers
                 {
                     Message = "Usuário atulizado com sucesso!",
                     Success = true,
-                    Data = new
-                    {
-                        Id = userUpdated.Id,
-                        Name = userUpdated.Name,
-                        Email = userUpdated.Email,
-                    }
+                    Data = userUpdated
                 });            
             }
             catch (DomainException ex) 
