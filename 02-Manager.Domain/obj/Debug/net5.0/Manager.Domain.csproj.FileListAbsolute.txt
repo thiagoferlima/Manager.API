@@ -23,8 +23,9 @@ C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMS
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
-C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CopyComplete
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\refint\Manager.Domain.dll
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
 C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
+C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager.Domain.sourcelink.json
+C:\Manager\Manager\02-Manager.Domain\obj\Debug\net5.0\Manager..A97F38E4.Up2Date

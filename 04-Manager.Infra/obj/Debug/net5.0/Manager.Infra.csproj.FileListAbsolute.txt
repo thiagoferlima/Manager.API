@@ -32,9 +32,10 @@ C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.GeneratedMSBu
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.AssemblyInfoInputs.cache
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.AssemblyInfo.cs
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.csproj.CoreCompileInputs.cache
-C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.csproj.CopyComplete
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.dll
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\refint\Manager.Infra.dll
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.pdb
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.genruntimeconfig.cache
 C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\ref\Manager.Infra.dll
+C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager.Infra.sourcelink.json
+C:\Manager\Manager\04-Manager.Infra\obj\Debug\net5.0\Manager..F94F2B11.Up2Date

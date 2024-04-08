@@ -19,6 +19,18 @@
           }
         }
       },
+      "EscNet/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "5.0.1"
+        },
+        "compile": {
+          "lib/net5.0/EscNet.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/EscNet.dll": {}
+        }
+      },
       "FluentValidation/9.3.0": {
         "type": "package",
         "compile": {
@@ -1796,6 +1808,19 @@
         "lib/net461/AutoMapper.xml",
         "lib/netstandard2.0/AutoMapper.dll",
         "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
+    "EscNet/1.0.1": {
+      "sha512": "g25qdDAMDgtvkuXSy1LuP51w7ckKXSZJgOZTfcZNaTnUEDFBZe1UjbeDWjLsF67ktL8qV378uykTeo6iznbQPQ==",
+      "type": "package",
+      "path": "escnet/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EscNet-Icon.jpg",
+        "escnet.1.0.1.nupkg.sha512",
+        "escnet.nuspec",
+        "lib/net5.0/EscNet.dll"
       ]
     },
     "FluentValidation/9.3.0": {
@@ -6063,6 +6088,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "AutoMapper >= 10.1.1",
+      "EscNet >= 1.0.1",
       "Manager.Core >= 1.0.0",
       "Manager.Domain >= 1.0.0",
       "Manager.Infra >= 1.0.0"
@@ -6116,6 +6142,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6125,6 +6156,10 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[10.1.1, )"
+          },
+          "EscNet": {
+            "target": "Package",
+            "version": "[1.0.1, )"
           }
         },
         "imports": [
@@ -6143,7 +6178,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

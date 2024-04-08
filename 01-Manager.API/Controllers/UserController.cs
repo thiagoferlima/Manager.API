@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using Manager.API.Utilities;
 using Manager.Services.Services;
+using EscNet.Mails.Models;
+using Manager.Domain.Entities;
+using System.Xml.Linq;
 
 namespace Manager.API.Controllers
 {
@@ -41,7 +44,12 @@ namespace Manager.API.Controllers
                 {
                     Message = "Usuário criado com sucesso!",
                     Success = true,
-                    Data = userCreated
+                    Data = new 
+                    {
+                        Id = userCreated.Id,
+                        Name = userCreated.Name,
+                        Email = userCreated.Email,
+                    }
                 });
             }
             catch (DomainException ex)
@@ -66,7 +74,12 @@ namespace Manager.API.Controllers
                 {
                     Message = "Usuário atulizado com sucesso!",
                     Success = true,
-                    Data = userUpdated
+                    Data = new
+                    {
+                        Id = userUpdated.Id,
+                        Name = userUpdated.Name,
+                        Email = userUpdated.Email,
+                    }
                 });            
             }
             catch (DomainException ex) 

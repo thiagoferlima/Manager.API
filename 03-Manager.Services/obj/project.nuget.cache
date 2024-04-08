@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "f3QGTZPjhdcK93ZIsrNOSdoKWre8U1pSicrC2TamjBxKoXROg4CzJQjUzaROh+2CVhJmhidJVHvVGRYajrPsZQ==",
+  "dgSpecHash": "vfd6/M+1qnPcMsTjRUVHf0n1A0iRvcP6Yqm2Rp6RlEt03B/H4bMmN10ezUxvhIy7RgLC3aHZmOaR+SKyM2KhMQ==",
   "success": true,
   "projectFilePath": "C:\\Manager\\Manager\\03-Manager.Services\\Manager.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\th1go\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\th1go\\.nuget\\packages\\escnet\\1.0.1\\escnet.1.0.1.nupkg.sha512",
     "C:\\Users\\th1go\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\th1go\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\th1go\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

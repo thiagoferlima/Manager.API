@@ -31,8 +31,9 @@ C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.Generat
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfoInputs.cache
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.AssemblyInfo.cs
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CoreCompileInputs.cache
-C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.csproj.CopyComplete
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.dll
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\refint\Manager.Services.dll
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.pdb
 C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\ref\Manager.Services.dll
+C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager.Services.sourcelink.json
+C:\Manager\Manager\03-Manager.Services\obj\Debug\net5.0\Manager..B6631CFB.Up2Date

@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Manager\\Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\manager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\manager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|c:\\manager\\manager\\03-manager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|solutionrelative:03-manager.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\context\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\context\\managercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|c:\\manager\\manager\\01-manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F386A3-1CC0-4F59-8E19-EEBE1739C4A3}|01-Manager.API\\Manager.API.csproj|solutionrelative:01-manager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57FABC-4C66-4C51-8F12-033F228B9C26}|05-Manager.Core\\Manager.Core.csproj|c:\\manager\\manager\\05-manager.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E57FABC-4C66-4C51-8F12-033F228B9C26}|05-Manager.Core\\Manager.Core.csproj|solutionrelative:05-manager.core\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57FABC-4C66-4C51-8F12-033F228B9C26}|05-Manager.Core\\Manager.Core.csproj|c:\\manager\\manager\\05-manager.core\\manager.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E57FABC-4C66-4C51-8F12-033F228B9C26}|05-Manager.Core\\Manager.Core.csproj|solutionrelative:05-manager.core\\manager.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\manager.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\manager.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|c:\\manager\\manager\\03-manager.services\\manager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07AF0EAF-6E32-4B49-8628-815D5A6EAC15}|03-Manager.Services\\Manager.Services.csproj|solutionrelative:03-manager.services\\manager.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|c:\\manager\\manager\\04-manager.infra\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BF0C51-1977-44F7-9776-2F0C29A309B5}|04-Manager.Infra\\Manager.Infra.csproj|solutionrelative:04-manager.infra\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57598A-B1C9-48A4-AF7E-795652770D11}|02-Manager.Domain\\Manager.Domain.csproj|c:\\manager\\manager\\02-manager.domain\\manager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C57598A-B1C9-48A4-AF7E-795652770D11}|02-Manager.Domain\\Manager.Domain.csproj|solutionrelative:02-manager.domain\\manager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "01-Manager.API\\appsettings.json",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\appsettings.json",
+              "RelativeToolTip": "01-Manager.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T15:21:49.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Manager.Core.csproj",
+              "DocumentMoniker": "C:\\Manager\\Manager\\05-Manager.Core\\Manager.Core.csproj",
+              "RelativeDocumentMoniker": "05-Manager.Core\\Manager.Core.csproj",
+              "ToolTip": "C:\\Manager\\Manager\\05-Manager.Core\\Manager.Core.csproj",
+              "RelativeToolTip": "05-Manager.Core\\Manager.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T15:16:46.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\03-Manager.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "03-Manager.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Manager\\Manager\\03-Manager.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "03-Manager.Services\\Services\\UserService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:52:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "01-Manager.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:52:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "ToolTip": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "RelativeToolTip": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\5c263124-2700-4435-913d-b49f5bece59c\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T14:40:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Program.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Program.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Program.cs",
+              "RelativeToolTip": "01-Manager.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:51:28.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.API.csproj",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Manager.API.csproj",
+              "RelativeDocumentMoniker": "01-Manager.API\\Manager.API.csproj",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Manager.API.csproj",
+              "RelativeToolTip": "01-Manager.API\\Manager.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T15:04:03.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "01-Manager.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:34:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "04-Manager.Infra\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Manager\\Manager\\04-Manager.Infra\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "04-Manager.Infra\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:55:37.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerContext.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Context\\ManagerContext.cs",
+              "RelativeDocumentMoniker": "04-Manager.Infra\\Context\\ManagerContext.cs",
+              "ToolTip": "C:\\Manager\\Manager\\04-Manager.Infra\\Context\\ManagerContext.cs",
+              "RelativeToolTip": "04-Manager.Infra\\Context\\ManagerContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:55:19.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\01-Manager.API\\Startup.cs",
+              "RelativeDocumentMoniker": "01-Manager.API\\Startup.cs",
+              "ToolTip": "C:\\Manager\\Manager\\01-Manager.API\\Startup.cs",
+              "RelativeToolTip": "01-Manager.API\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:04:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\05-Manager.Core\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "05-Manager.Core\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Manager\\Manager\\05-Manager.Core\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "05-Manager.Core\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:00:36.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manager.Infra.csproj",
+              "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Manager.Infra.csproj",
+              "RelativeDocumentMoniker": "04-Manager.Infra\\Manager.Infra.csproj",
+              "ToolTip": "C:\\Manager\\Manager\\04-Manager.Infra\\Manager.Infra.csproj",
+              "RelativeToolTip": "04-Manager.Infra\\Manager.Infra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T15:16:34.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manager.Services.csproj",
+              "DocumentMoniker": "C:\\Manager\\Manager\\03-Manager.Services\\Manager.Services.csproj",
+              "RelativeDocumentMoniker": "03-Manager.Services\\Manager.Services.csproj",
+              "ToolTip": "C:\\Manager\\Manager\\03-Manager.Services\\Manager.Services.csproj",
+              "RelativeToolTip": "03-Manager.Services\\Manager.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T15:16:27.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json",
+              "ToolTip": "C:\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json",
+              "RelativeToolTip": "..\\..\\Users\\th1go\\AppData\\Roaming\\Microsoft\\UserSecrets\\a26d0971-bb22-4e85-a880-1cc6ca6fd816\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T15:45:44.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "04-Manager.Infra\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Manager\\Manager\\04-Manager.Infra\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "04-Manager.Infra\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:55:32.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Manager\\Manager\\04-Manager.Infra\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "04-Manager.Infra\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Manager\\Manager\\04-Manager.Infra\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "04-Manager.Infra\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:55:42.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Manager.Domain.csproj",
+              "DocumentMoniker": "C:\\Manager\\Manager\\02-Manager.Domain\\Manager.Domain.csproj",
+              "RelativeDocumentMoniker": "02-Manager.Domain\\Manager.Domain.csproj",
+              "ToolTip": "C:\\Manager\\Manager\\02-Manager.Domain\\Manager.Domain.csproj",
+              "RelativeToolTip": "02-Manager.Domain\\Manager.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T15:16:19.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

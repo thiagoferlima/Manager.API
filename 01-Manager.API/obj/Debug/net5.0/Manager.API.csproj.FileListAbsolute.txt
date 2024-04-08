@@ -140,9 +140,11 @@ C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\staticwebassets\msbuild.build
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Manager.API.props
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Manager.API.props
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager.API.RazorTargetAssemblyInfo.cache
-C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager.API.csproj.CopyComplete
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager.API.dll
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\refint\Manager.API.dll
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager.API.pdb
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager.API.genruntimeconfig.cache
 C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\ref\Manager.API.dll
+C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager.API.sourcelink.json
+C:\Manager\Manager\01-Manager.API\obj\Debug\net5.0\Manager..E91BF6A6.Up2Date
+C:\Manager\Manager\01-Manager.API\bin\Debug\net5.0\EscNet.dll

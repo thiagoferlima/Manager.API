@@ -20,3 +20,4 @@ C:\Manager\Manager\05-Manager.Core\obj\Debug\net5.0\Manager.Core.dll
 C:\Manager\Manager\05-Manager.Core\obj\Debug\net5.0\refint\Manager.Core.dll
 C:\Manager\Manager\05-Manager.Core\obj\Debug\net5.0\Manager.Core.pdb
 C:\Manager\Manager\05-Manager.Core\obj\Debug\net5.0\ref\Manager.Core.dll
+C:\Manager\Manager\05-Manager.Core\obj\Debug\net5.0\Manager.Core.sourcelink.json
